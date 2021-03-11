@@ -128,5 +128,17 @@
 {"id": 10,
 "miles":"1,815",
 "price": "329,990$"}
+  ],
+  "carcolor":[
+    {"id":1,"color":"Black"},
+    {"id":2,"color":"White"},
+    {"id":3,"color":"Black"},
+    {"id":4,"color":"Gray"},
+    {"id":5,"color":"Red"},
+    {"id":6,"color":"Blue"},
+    {"id":7,"color":"White"},
+    {"id":8,"color":"Brown"},
+    {"id":9,"color":"Gold"},
+    {"id":10,"color":"Black"}
   ]
 }
