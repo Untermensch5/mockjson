@@ -3,91 +3,60 @@
 {
 "modelId": 10325,
 "id": 1,
-"modelName": "BMW",
-"modelType": "M6",
-"modelYear": "2018",
 "miles":"10,823",
 "price": "70,477$"
 },
 {
 "modelId": 11235,
 "id": 2,
-"modelName": "Chevrolet",
-"modelType": "Corvette",
-"modelYear": "2020",
 "miles":"134",
 "price": "99,995$"
 },
 {
 "modelId": 17894,
 "id": 3,
-"modelName": "Mazda",
-"modelType": "RX-8",
-"modelYear": "2004",
 "miles":"94,694",
 "price": "5,495$"
 },
 {
 "modelId": 13548,
 "id": 4,
-"modelName": "Nissan",
-"modelType": "370Z",
-"modelYear": "2017",
-
 "miles":"25,556",
 "price": "10,633$"
 },
 {
 "modelId": 17846,
 "id": 5,
-"modelName": "Ford",
-"modelType": "GT",
-"modelYear": "2006",
 "miles":"1,755",
 "price": "529,900$"
 },
 {
 "modelId": 17849,
 "id": 6,
-"modelName": "Ford",
-"modelType": "GT",
-"modelYear": "2005",
 "miles":"1,000",
 "price": "359,980$"
 },
 {
 "modelId": 21548,
 "id": 7,
-"modelName": "Audi",
-"modelType": "e-tron",
-"modelYear": "2019",
 "miles":"133",
 "price": "61,987$"
 },
 {
 "modelId": 21798,
 "id": 8,
-"modelName": "Toyota",
-"modelType": "Camry",
-"modelYear": "2018",
 "miles":"4,242",
 "price": "17,929$"
 },
 {
 "modelId": 21774,
 "id": 9,
-"modelName": "Toyota",
-"modelType": "RAV4",
-"modelYear": "2018",
 "miles":"12,842",
 "price": "20,998$"
 },
 {
 "modelId": 28794,
 "id": 10,
-"modelName": "Lamborghini",
-"modelType": "Huracan",
-"modelYear": "2018",
 "miles":"1,815",
 "price": "329,990$"
 }
@@ -104,5 +73,48 @@
    {"id":9, "image": "https://cdn05.carsforsale.com/00e2b169e2eade3901a291171a1b365c5b/480x360/2018-toyota-rav4-se-awd-4dr-suv.jpg"},
    {"id":10, "image": "https://cdn05.carsforsale.com/00cb753aff30f96c5df94b2680c46a33b4/480x360/2018-lamborghini-huracan-lp-640-4-performante-awd-2dr-coupe.jpg"}
   
-]
+],
+  "carmodel":[
+    {"id": 1,
+"modelName": "BMW",
+"modelType": "M6",
+"modelYear": "2018"},
+    {"id": 2,
+"modelName": "Chevrolet",
+"modelType": "Corvette",
+"modelYear": "2020"},
+    {"id": 3,
+"modelName": "Mazda",
+"modelType": "RX-8",
+"modelYear": "2004"},
+    {"id": 4,
+"modelName": "Nissan",
+"modelType": "370Z",
+"modelYear": "2017"},
+    {"id": 5,
+"modelName": "Ford",
+"modelType": "GT",
+"modelYear": "2006"},
+    {"id": 6,
+"modelName": "Ford",
+"modelType": "GT",
+"modelYear": "2005"},
+    {"id": 7,
+"modelName": "Audi",
+"modelType": "e-tron",
+"modelYear": "2019"},
+    {"id": 8,
+"modelName": "Toyota",
+"modelType": "Camry",
+"modelYear": "2018"},
+    {"id": 9,
+"modelName": "Toyota",
+"modelType": "RAV4",
+"modelYear": "2018",
+"miles":"12,842"},
+    {"id": 10,
+"modelName": "Lamborghini",
+"modelType": "Huracan",
+"modelYear": "2018"}
+  ]
 }
