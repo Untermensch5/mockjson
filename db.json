@@ -2,63 +2,43 @@
 "cars": [
 {
 "modelId": 10325,
-"id": 1,
-"miles":"10,823",
-"price": "70,477$"
+"id": 1
 },
 {
 "modelId": 11235,
-"id": 2,
-"miles":"134",
-"price": "99,995$"
+"id": 2
 },
 {
 "modelId": 17894,
-"id": 3,
-"miles":"94,694",
-"price": "5,495$"
+"id": 3
 },
 {
 "modelId": 13548,
-"id": 4,
-"miles":"25,556",
-"price": "10,633$"
+"id": 4
 },
 {
 "modelId": 17846,
-"id": 5,
-"miles":"1,755",
-"price": "529,900$"
+"id": 5
 },
 {
 "modelId": 17849,
-"id": 6,
-"miles":"1,000",
-"price": "359,980$"
+"id": 6
 },
 {
 "modelId": 21548,
-"id": 7,
-"miles":"133",
-"price": "61,987$"
+"id": 7
 },
 {
 "modelId": 21798,
-"id": 8,
-"miles":"4,242",
-"price": "17,929$"
+"id": 8
 },
 {
 "modelId": 21774,
-"id": 9,
-"miles":"12,842",
-"price": "20,998$"
+"id": 9
 },
 {
 "modelId": 28794,
-"id": 10,
-"miles":"1,815",
-"price": "329,990$"
+"id": 10
 }
 ],
 "car's_image": [
@@ -116,5 +96,37 @@
 "modelName": "Lamborghini",
 "modelType": "Huracan",
 "modelYear": "2018"}
+  ],
+  "carinfo"[
+  {"id": 1,
+"miles":"10,823",
+"price": "70,477$"},
+{"id": 2,
+"miles":"134",
+"price": "99,995$"},
+{"id": 3,
+"miles":"94,694",
+"price": "5,495$"},
+{"id": 4,
+"miles":"25,556",
+"price": "10,633$"},
+{"id": 5,
+"miles":"1,755",
+"price": "529,900$"},
+{"id": 6,
+"miles":"1,000",
+"price": "359,980$"},
+{"id": 7,
+"miles":"133",
+"price": "61,987$"},
+{"id": 8,
+"miles":"4,242",
+"price": "17,929$"},
+{"id": 9,
+"miles":"12,842",
+"price": "20,998$"},
+{"id": 10,
+"miles":"1,815",
+"price": "329,990$"}
   ]
 }
